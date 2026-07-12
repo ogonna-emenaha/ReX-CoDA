@@ -12,7 +12,7 @@ compositionally coherent imputations in additive log-ratio (ALR) space.
 
 This repository accompanies the manuscript:
 
-> Emenaha O, Başarır H, Ellefmo SL (2025) ReX-CoDA: A Compositionally Aware
+> Emenaha O, Başarır H, Ellefmo SL (2026) ReX-CoDA: A Compositionally Aware
 > Imputation Framework for Censored Geochemical Data.
 > *Mathematical Geosciences*.
 
