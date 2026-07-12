@@ -15,7 +15,6 @@ This repository accompanies the manuscript:
 > Emenaha O, Başarır H, Ellefmo SL (2025) ReX-CoDA: A Compositionally Aware
 > Imputation Framework for Censored Geochemical Data.
 > *Mathematical Geosciences*.
-> https://doi.org/[ADD DOI WHEN AVAILABLE]
 
 ---
 
